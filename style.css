@@ -15,7 +15,7 @@ body{
     align-items: center;
     margin-top:2rem;
     padding: 2rem;
-    background-color: #2e2d2d;
+    background-color: #0f0f0f;
     width: 700px !important;
 }
 .icon{
@@ -51,7 +51,7 @@ body{
     width:324px;
     height: 48px;
     padding: 7px 31px ;
-    background-color: #2e2d2d;
+    background-color: #0f0f0f;
     color: white;
     border: 1px solid rgb(153, 148, 148) !important;
     margin-bottom: 9px;
@@ -113,7 +113,7 @@ button{
 .form-control{
     display: flex;
     flex-direction: column !important;
-    background-color: #2e2d2d !important;
+    background-color: #0f0f0f !important;
     width: 325px !important;
     color: white !important ;
     border:1px solid rgb(153, 148, 148) !important ;
